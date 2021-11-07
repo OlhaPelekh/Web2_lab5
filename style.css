@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  font-size: 30px;
+}
+
+.message_form__button{
+    background-color: aqua;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.message_form__input{
+    font-size: 25px;
+}
+
+.phon{
+    background-image: url(images/background70.jpg); 
+    font-size: 40px;
+}
+
+.Chat{
+    color: rgb(14, 0, 102);
+}
